@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Branch 1
-=======
 Branch 2
->>>>>>> branch2
+
